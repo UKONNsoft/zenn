@@ -6,6 +6,10 @@ topics: ["claudecode", "claude", "anthropic", "ai", "開発環境"]
 published: true
 ---
 
+## 📊 [フルカラー版（図解つき）はこちら](https://chips-pengpeng.ssl-lolipop.jp/zenn/overview/claude-code-overview.html)
+
+> 色分け・構成図つきの完全版を別サイトに置いています。構造を掴むならこちらの方が速いです。
+
 :::message
 **検証環境：Claude Code v2.1.232 / 2026-08 時点**
 仕様の更新が速い領域です。重要な判断の前には公式ドキュメントで再確認してください。
