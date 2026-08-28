@@ -6,7 +6,7 @@ topics: ["claudecode", "claude", "anthropic", "ai", "開発環境"]
 published: false
 ---
 
-## 📊 [フルカラー版（図解つき）はこちら](https://chips-pengpeng.ssl-lolipop.jp/zenn/claude-code-setup/claude-code-setup-plugin.html)
+## 📊 [フルカラー版（図解つき）はこちら](https://chips-pengpeng.ssl-lolipop.jp/zenn/claude-code-setup/index.html)
 
 > 「空フォルダから始めると空振りする」順序の図など、色分け・構成図つきの完全版を別サイトに置いています。手順を掴むならこちらの方が速いです。
 
