@@ -1,5 +1,5 @@
 ---
-title: "settings.jsonで deny に書いたのに .env が読まれた — Claude Code の permissions が効かない6つの理由"
+title: "settings.jsonで deny に書いたのに .env が読まれた — 原因6つと直し方"
 emoji: "🔒"
 type: "tech"
 topics: ["claudecode", "claude", "anthropic", "ai", "セキュリティ"]
